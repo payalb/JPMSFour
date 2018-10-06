@@ -1,1 +1,2 @@
 If modulea present in diff folder and moduleb in diff source folder
+javac --module-source-path src;src2 -d out -m moduleA, moduleB
